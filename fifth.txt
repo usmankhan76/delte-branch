@@ -1,1 +1,2 @@
 we deal with merge commit in this step 
+and we want to updated it 
